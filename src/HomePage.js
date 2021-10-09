@@ -11,9 +11,13 @@ class HomePage extends Component{
                             <td className='td1'>Full Stack Developer</td>
                             <td className='td2'>About</td>
                             <td className='td3'>Resume</td>
+
                         </tr>
                     </table>
                 </header>
+                <h1 style={{fontSize:'30px'}}>
+                    HAHHAHAHAHA HELLO 
+                </h1>
             </div>
         )
     }
