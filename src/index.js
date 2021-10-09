@@ -15,6 +15,7 @@ import HomePage from './HomePage';
 ReactDOM.render(
   <React.StrictMode>
     <Router>
+      <Route path='/' component={WelcomePage2} />
       <Route path='/welcome' component={WelcomePage} />
       <Route path='/home' component={HomePage} />
       <Route path='/about' component={AboutPage} />
