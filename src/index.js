@@ -20,7 +20,7 @@ ReactDOM.render(
       <Route path='/home' component={HomePage} />
       <Route path='/about' component={AboutPage} />
       <Route path='/project' component={ProjectPage} />
-      <Route path='/welcome2' component={WelcomePage2} />
+      {/* <Route path='/welcome2' component={WelcomePage2} /> */}
       {/* <Route path='/app' component={App} /> */}
     </Router>
   </React.StrictMode>,
